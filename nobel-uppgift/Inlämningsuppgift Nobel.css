@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	padding:0;
+	margin:0;
+}
+
+#storbox{
+	background-color:#999;
+	height:100%;
+	width:100%;
+	position:absolute;
+	
+}
+header{
+	background-color:#FC3;
+	height:10%;
+	width:95%;
+	font-family:"MS Serif", "New York", serif;
+	font-size:24px;
+	margin-left:2.5%;
+	text-decoration:underline;
+	box-shadow: 10px 10px 10px;
+	
+
+}
+nav{
+	height:10%;
+	width:90%;
+	background-color:#999;
+	color:#000;
+	margin-left:5%;
+
+}
+ul{
+	list-style:none;
+	text-align:center;
+
+}
+a{
+	color:#000;
+
+}
+
+li{
+	line-height:40px;
+	height:100%;
+	width:20%;
+	float:left;
+	
+	
+
+}
+article{
+	background-color:#666;
+	height:70%;
+	width:45%;
+	text-align:left;
+	float:left;
+	margin-left:7.5%;
+	box-shadow: 10px 10px 10px;
+	padding-left:10px;
+	
+}
+aside{
+	height:70%;
+	width:30%;
+	background-color:#666;
+	
+	margin-left:6%;
+	
+	box-shadow: 10px 10px 10px;
+	float:left;
+
+}
+
+img {
+ margin-top: 30%;	
+}
+
+	
+
+	
